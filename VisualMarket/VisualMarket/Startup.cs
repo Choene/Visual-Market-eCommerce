@@ -58,6 +58,7 @@ namespace VisualMarket
                 //     await context.Response.WriteAsync("Hello World!");
                 // });
             });
+            SeedData.EnsurePopulated(app);
         }
     }
 }
