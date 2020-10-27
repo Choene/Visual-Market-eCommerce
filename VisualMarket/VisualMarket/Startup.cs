@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using VisualMarket.Models;
+using VisualMarket.VisualMarket.Models;
 
 namespace VisualMarket
 {
@@ -31,6 +32,8 @@ namespace VisualMarket
             services.AddDbContext<VisualMarketDbContext>(opts => {
                 opts.UseSqlServer(Configuration["ConnectionStrings:VisualMarketConnection"]);
             });
+
+            services.AddScoped<IVisualMarketRepository, EFVisualMarketRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
