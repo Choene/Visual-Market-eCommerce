@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAhScbNvgzle+wfxnM1Z9AyIJJVzOueweK3dPvLIWi7SqowY6HTt8edjeOMnN38MRvm0nJ6wgwyFG71cYC/eHg==",
+  "dgSpecHash": "d+Ua2T9Qd0sM36LTR5T6v+rpEJ6kqmjn4D3UieMmYH+bcfFuioerIpgPkvxUqwg6mejtAHjpGvnvtJOOUxf/Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj",
+  "projectFilePath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CHOENE\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\CHOENE\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

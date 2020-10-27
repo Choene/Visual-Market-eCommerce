@@ -5685,11 +5685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj",
+      "projectUniqueName": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
       "projectName": "VisualMarket",
-      "projectPath": "C:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj",
+      "projectPath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
       "packagesPath": "C:\\Users\\CHOENE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\obj\\",
+      "outputPath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
