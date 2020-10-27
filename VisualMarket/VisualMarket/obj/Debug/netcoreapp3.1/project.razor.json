@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
+  "FilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,23 +14392,23 @@
   "RootNamespace": "VisualMarket",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarket\\VisualMarket\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarket\\VisualMarket\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarket\\VisualMarket\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarket\\VisualMarket\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
