@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket.Tests\\VisualMarket.Tests.csproj": {}
+    "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket.Tests\\VisualMarket.Tests.csproj": {
+    "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
         "projectName": "VisualMarket.Tests",
-        "projectPath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
+        "projectPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
         "packagesPath": "C:\\Users\\CHOENE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket.Tests\\obj\\",
+        "outputPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj": {
-                "projectPath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj"
+              "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {
+                "projectPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj": {
+    "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj",
+        "projectUniqueName": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
         "projectName": "VisualMarket",
-        "projectPath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\VisualMarket.csproj",
+        "projectPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
         "packagesPath": "C:\\Users\\CHOENE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CHOENE\\source\\repos\\DotNetCore\\VisualMarket\\VisualMarketSln\\VisualMarket\\obj\\",
+        "outputPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -125,6 +125,22 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
