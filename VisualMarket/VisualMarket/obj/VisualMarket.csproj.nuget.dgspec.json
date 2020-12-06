@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {}
+    "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {
+    "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
+        "projectUniqueName": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
         "projectName": "VisualMarket",
-        "projectPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
+        "projectPath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\VisualMarket.csproj",
         "packagesPath": "C:\\Users\\CHOENE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\obj\\",
+        "outputPath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

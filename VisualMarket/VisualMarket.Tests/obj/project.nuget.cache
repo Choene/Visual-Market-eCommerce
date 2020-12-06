@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckFbhNGZ5se+RsGhHANC1If2NbLAAZ1GXLj70GyFRdF59ccqZ+f/59d5Mhkj2Kn5LxRpKh/tWxGslhm9DDQNXA==",
+  "dgSpecHash": "9H0EEFdPZQQrwiIqlgB8JYwlciHldbiCcGyA9kTEl0xBf2Gm5Hcv5bd9+8PNY3O8R2kUkfmN0IP4mbQBmp9o8A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
+  "projectFilePath": "C:\\Users\\CHOENE\\source\\GitRepos\\VisualMarket\\Visual-Market-eCommerce\\VisualMarket\\VisualMarket.Tests\\VisualMarket.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CHOENE\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\CHOENE\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
